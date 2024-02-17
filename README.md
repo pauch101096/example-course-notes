@@ -6,3 +6,4 @@ class notes
 -file
 - OS x
 i
+yo tampo se x2
