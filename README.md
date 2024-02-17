@@ -4,10 +4,5 @@ class notes
 -MacOS
 -Data type
 -file
-
-
-
-
-
-
--ejercios
+- OS x
+i
